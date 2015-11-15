@@ -1,5 +1,7 @@
 # Ruby On Rails Tutorial on Docker
 
+[Ruby on Rails Tutorial](http://www.railstutorial.org/)
+
 ## Supported tags and respective `Dockerfile` links
 
 -   [`3rd`, `latest` (*Dockerfile*)](https://raw.githubusercontent.com/sona-tar/docker-rails-tutorial/master/Dockerfile)
