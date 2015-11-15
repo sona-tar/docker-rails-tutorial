@@ -2,8 +2,8 @@
 
 ## Supported tags and respective `Dockerfile` links
 
--   [`3rd`, `latest` (*Dockerfile*)]()
--   [`3rd`, `latest` (*docker-compose.yml*)]()
+-   [`3rd`, `latest` (*Dockerfile*)](https://raw.githubusercontent.com/sona-tar/docker-rails-tutorial/master/Dockerfile)
+-   [`3rd`, `latest` (*docker-compose.yml*)](https://raw.githubusercontent.com/sona-tar/docker-rails-tutorial/master/docker-compose.yml)
 
 ## How to use this image
 
