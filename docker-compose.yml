@@ -1,0 +1,4 @@
+app:
+  image: "rails-tutorial:3rd"
+  volumes:
+    - ~/src/rails-tutorial:/root/workspace
